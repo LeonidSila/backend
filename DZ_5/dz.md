@@ -1,5 +1,5 @@
 ### Урок 5. JSON и XML
-# адача №1: проверить XML на Well formed:
+# Задача №1: проверить XML на Well formed:
 
 ```
 <req>
