@@ -1,0 +1,1 @@
+INFO:root:Получена информация для файла: leonid/path/to/log.txt
