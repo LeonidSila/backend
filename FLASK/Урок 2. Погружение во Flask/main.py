@@ -37,6 +37,7 @@ def logout():
     response.set_cookie('name', expires=0)
     response.set_cookie('email', expires=0)
 
+
     return response
 
 if __name__ == '__main__':
