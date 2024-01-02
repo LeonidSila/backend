@@ -25,6 +25,7 @@ def shoes():
 def jacket():
     return render_template('jacket.html')
 
+
 @app.route('/kek.html')
 def kek():
     return render_template('kek.html')
