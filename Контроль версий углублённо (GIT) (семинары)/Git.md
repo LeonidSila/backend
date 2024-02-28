@@ -17,5 +17,3 @@
 * предпоследний — командой git reset --mixed и git restore;
 * первый — командой git reset --hard.
 
-
-Изминения_2
